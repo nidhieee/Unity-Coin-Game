@@ -1,0 +1,9 @@
+*.cs linguist-language=C#
+*.shader linguist-language=C#
+*.cginc linguist-language=C#
+
+*.unity linguist-vendored
+*.prefab linguist-vendored
+*.mat linguist-vendored
+*.asset linguist-vendored
+*.anim linguist-vendored
