@@ -1,8 +1,10 @@
+# Force C#
 *.cs linguist-language=C#
 
-*.unity linguist-vendored
-*.prefab linguist-vendored
-*.mat linguist-vendored
-*.asset linguist-vendored
-*.anim linguist-vendored
-*.meta linguist-vendored
+# Ignore Unity generated YAML files completely
+*.unity linguist-detectable=false
+*.prefab linguist-detectable=false
+*.mat linguist-detectable=false
+*.asset linguist-detectable=false
+*.anim linguist-detectable=false
+*.meta linguist-detectable=false
