@@ -1,5 +1,5 @@
 # Unity Coin Collection Game 🎮
-![Gameplay](gameplay.png)
+![Gameplay](coin_game.png)
 ## Overview
 
 A simple 2D Unity-based game where the player collects coins while interacting with basic game mechanics such as movement, collision, and audio feedback.
